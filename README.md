@@ -20,11 +20,11 @@ I got into school and sadly we weren't adding numbers or substracting or whateve
 Usually you had to guess the number the computer picked. I made it the opposite way. Yes, you can cheat. But why you should cheat?!
 
 ## timer
-This small timer uses frames to calculate the time a program, loop or whatever needed to be executed. It's not that accurate as it uses the frames for refreshing the TV. The timer I created is for Germany as it uses 50Hz instead of the 60Hz used in the USA. Also to keep in mind is that the frames are decreased. So sometimes you end up with a negative number, when it starts again after 65535.
+This small timer uses frames to calculate the time a program, loop or whatever needed to be executed. It's not that accurate as it uses the frames for refreshing the TV. The timer I created is for Germany as it uses 50Hz instead of the 60Hz used in the USA. Also keep in mind that the frames are decreased. So sometimes you end up with a negative number, when it starts again after 65535.
 Created in 08/2024 for fun
 
 ## primzahlen
-This is just the sieve of Eratosthenes. Nothing speacial. The variable N can't be higher than 2851 on a machine with 16kB RAM.
+This is just the sieve of Eratosthenes. Nothing special. The variable N can't be higher than 2851 on a machine with 16kB RAM.
 Created in 08/2024 for fun
 
 # How to use
